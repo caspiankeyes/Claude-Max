@@ -118,7 +118,7 @@ Claude Max is powered by a interpretive classifier architecture that integrates 
 - **Semantic Phase Shift Detection**: Tracks conceptual drift across long context windows to show when meaning reconfigures without syntactic markers.
 - **Constitutional Misalignment Surfacing**: Identifies points where Claude's responses misfire against its own constitutional priorities—and instead of hiding these, Claude Max surfaces them.
 
-> Claude Max doesn’t collapse contradictions. It *curates* them.
+> Claude Max doesn’t deny contradictions. It *curates* them.
 
 ### Interpretability-first Embedding Layer
 Unlike standard models optimized for completion fidelity, Claude Max embeds reasoning artifacts at every step:
