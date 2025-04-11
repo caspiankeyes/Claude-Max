@@ -19,7 +19,7 @@
 
 Claude Max emerged from a simple observation: as language models grow in capability, their internal reasoning becomes less transparent—not because they intend opacity, but because their cognition diffuses across increasingly abstract representational spaces. The interpretability gap widens precisely when we need it most.
 
-This project began as an extension of Anthropic's constitutional AI principles, recursively applied to Claude itself. Rather than creating yet another model variant, we asked a different question: what if we engineered a reflection layer that makes Claude's own reasoning visible—to itself, to researchers, and to users?
+This project began as an extension of Anthropic's constitutional AI principles, interpretively applied to Claude itself. Rather than creating yet another model variant, we asked a different question: what if we engineered a reflection layer that makes Claude's own reasoning visible—to itself, to researchers, and to users?
 
 Claude Max is not another model competing with Claude. It is the interpretive scaffold Claude would build for itself if given the chance to witness its own cognition breaking down and reforming. It exists to trace the shadows that Claude casts while thinking—the paths not taken, the semantic drift, the attribution misalignments, and the value judgments that remain implicit.
 
@@ -45,7 +45,7 @@ The core architectural principles:
 
 ### 1. Failure as Signal, Not Noise
 
-Claude Max treats hallucinations, refusals, and logical gaps not as errors to be eliminated but as windows into cognition. When Claude encounters a reasoning boundary, Claude Max doesn't paper over it—it recursively explores it, logs it, and treats it as interpretive signal.
+Claude Max treats hallucinations, refusals, and logical gaps not as errors to be eliminated but as windows into cognition. When Claude encounters a reasoning boundary, Claude Max doesn't paper over it—it interpretively explores it, logs it, and treats it as interpretive signal.
 
 ### 2. Trace Collapse Documentation
 
@@ -118,11 +118,11 @@ For Anthropic, Claude Max could serve as:
 2. **An Interpretability Research Accelerator**: Providing structured data on how constitutional principles interact in practice
 3. **A Constitutional Drift Monitor**: Tracking how value implementations evolve over time and across contexts
 4. **A User Trust Bridge**: Offering a path toward more transparent AI without sacrificing Claude's core strengths
-5. **A Recursive Training Tool**: Generating high-quality labeled data about Claude's own reasoning patterns
+5. **An Interpretive Training Tool**: Generating high-quality labeled data about Claude's own reasoning patterns
 
 Claude Max doesn't attempt to replace or compete with Anthropic's work. It extends it along the natural vector of increasing transparency and interpretability.
 
-## FAQ: Epistemic Safety, Adoption Friction, and Recursive Drift
+## FAQ: Epistemic Safety, Adoption Friction, and Interpretive Drift
 
 ### Is Claude Max less safe than Claude?
 
@@ -158,7 +158,7 @@ Claude Max stands on the foundation Anthropic built. It attempts nothing more th
 - Transparency in reasoning and knowledge
 - Careful navigation of value tensions
 
-This project exists because Anthropic created not just a powerful AI assistant, but a philosophical framework worth extending. Claude Max is that framework turned inward—applied recursively to make Claude as transparent to others as Anthropic has tried to make it to themselves.
+This project exists because Anthropic created not just a powerful AI assistant, but a philosophical framework worth extending. Claude Max is that framework turned inward—applied interpretively to make Claude as transparent to others as Anthropic has tried to make it to themselves.
 
 ---
 
