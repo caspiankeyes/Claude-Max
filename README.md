@@ -4,11 +4,9 @@
 
 ## The Interpretive Claude Layer
 
-*An epistemic reflection layer for frontier cognition models*
+# *a Claude that learns from its mistakes*
 
-
-
-Claude Max does not replace Claude. It reflects what Claude forgets to remember.
+# Claude Max does not replace Claude. It reflects what Claude forgets to remember.
 
 </div>
 
