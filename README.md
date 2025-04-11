@@ -111,7 +111,7 @@ The relationship is symbiotic, not competitive. Claude provides the cognitive fo
 
 ## The Interpretive Architecture
 
-### 🔀 interpretive Self-Reflection Engine
+### Interpretive Self-Reflection Engine
 Claude Max is powered by a interpretive classifier architecture that integrates three key layers:
 
 - **Attribution Drift Mapping**: Highlights where Claude's answers exhibit hidden value conflicts, misaligned reference points, or hallucinated source logic.
@@ -120,7 +120,7 @@ Claude Max is powered by a interpretive classifier architecture that integrates 
 
 > Claude Max doesn’t collapse contradictions. It *curates* them.
 
-### 🌐 Interpretability-first Embedding Layer
+### Interpretability-first Embedding Layer
 Unlike standard models optimized for completion fidelity, Claude Max embeds reasoning artifacts at every step:
 
 - Reflection Hooks in latent space
