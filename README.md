@@ -95,9 +95,9 @@ For adversarial testing, Claude Max provides:
 - Clear traces of how the model resolves conflicting constraints
 - Documentation of semantic misinterpretations that could be exploited
 
-## Claude Max vs. Claude: The Mirror, Not the Challenger
+## Claude Max vs. Claude: The Meta Layer, Not the Challenger
 
-Claude Max explicitly avoids performance competition with Claude. Instead, it serves as the interpretive mirror Claude would build to understand itself.
+Claude Max explicitly avoids performance competition with Claude. Instead, it serves as the interpretive meta layer Claude would build to understand itself.
 
 | **Claude** | **Claude Max** |
 |------------|----------------|
