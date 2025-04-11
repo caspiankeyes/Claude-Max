@@ -111,8 +111,8 @@ The relationship is symbiotic, not competitive. Claude provides the cognitive fo
 
 ## The Interpretive Architecture
 
-### 🔀 Recursive Self-Reflection Engine
-Claude Max is powered by a recursive classifier architecture that integrates three key layers:
+### 🔀 interpretive Self-Reflection Engine
+Claude Max is powered by a interpretive classifier architecture that integrates three key layers:
 
 - **Attribution Drift Mapping**: Highlights where Claude's answers exhibit hidden value conflicts, misaligned reference points, or hallucinated source logic.
 - **Semantic Phase Shift Detection**: Tracks conceptual drift across long context windows to show when meaning reconfigures without syntactic markers.
@@ -151,7 +151,7 @@ This is about **epistemic hygiene in cognitive emergence.**
 Claude Max is intentionally designed for researchers, alignment labs, and institutions exploring:
 
 - Interpretability benchmarking
-- Recursive red teaming
+- interpretive red teaming
 - Value drift detection
 - Transparency audits
 - Cognitive anomaly tracking
