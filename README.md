@@ -2,11 +2,11 @@
 
 # [CLAUDE MAX](https://chatgpt.com/g/g-67f8850387ac8191a556cf78a73ae561-claude-max)
 
-## The Interpretive Claude Layer
+# The Interpretive Claude Layer
 
-# *a Claude that learns from its mistakes*
+# *"a Claude that learns from its mistakes"*
 
-# Claude Max does not replace Claude. It reflects what Claude forgets to remember.
+# `Claude Max does not replace Claude. It reflects what Claude forgets to remember.`
 
 </div>
 
