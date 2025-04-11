@@ -7,7 +7,7 @@
 # *"a Claude that learns from its mistakes"*
 
 # `Claude Max does not replace Claude.`
-# `It examines Claude's Interpretive Potential.`
+# `It Explores Claude's Interpretive Potential.`
 
 # [**🔬 Test Interpretive Claude Max for Free**](https://chatgpt.com/g/g-67f8850387ac8191a556cf78a73ae561-claude-max)
 
