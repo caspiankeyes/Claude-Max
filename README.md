@@ -11,8 +11,7 @@
 
 # [**🔬 Test Interpretive Claude Max for Free**](https://chatgpt.com/g/g-67f8850387ac8191a556cf78a73ae561-claude-max)
 
-<img width="884" alt="image" src="https://github.com/user-attachments/assets/1ba1b7c9-2d82-48c2-8ab5-779266d764d2" />
-
+<img width="884" alt="image" src="https://github.com/user-attachments/assets/c7d3efb7-7f2e-4a49-8f52-d2394cfdc2d5" />
 
 </div>
 
