@@ -8,7 +8,7 @@
 
 # `Claude Max does not replace Claude. It examines Claude's Interpretive Potential.`
 
-[**🔬 Test out Interpretive Claude Max**](https://chatgpt.com/g/g-67f8850387ac8191a556cf78a73ae561-claude-max)
+# [**🔬 Test out Interpretive Claude Max**](https://chatgpt.com/g/g-67f8850387ac8191a556cf78a73ae561-claude-max)
 
 <img width="878" alt="image" src="https://github.com/user-attachments/assets/5de38c87-afe8-4607-a7d2-279eb97d99b4" />
 
