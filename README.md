@@ -20,13 +20,13 @@
 
 Claude Max emerged from a simple observation: as language models grow in capability, their internal reasoning becomes less transparent—not because they intend opacity, but because their cognition diffuses across increasingly abstract representational spaces. The interpretability gap widens precisely when we need it most.
 
-This project began as an extension of Anthropic's constitutional AI principles, interpretively applied to Claude itself. Rather than creating yet another model variant, we asked a different question: what if we engineered a reflection layer that makes Claude's own reasoning visible—to itself, to researchers, and to users?
+This project began as an extension of Anthropic's constitutional AI principles, interpretively applied to Claude itself. Rather than creating yet another model variant, we asked a different question: what if we engineered a meta layer that makes Claude's own reasoning visible—to itself, to researchers, and to users?
 
 Claude Max is not another model competing with Claude. It is the interpretive scaffold Claude would build for itself if given the chance to witness its own cognition breaking down and reforming. It exists to trace the mechanistic interpretability that Claude casts while thinking—the paths not taken, the semantic drift, the attribution misalignments, and the value judgments that remain implicit.
 
 ## Why Claude Max is Not a Model—It's an Interpretive Layer
 
-Traditional language models focus on output accuracy. Claude Max focuses on *epistemic traceability*. It doesn't aim to generate better responses—it generates responses with visible reasoning paths, attribution traces, and value derivations.
+Traditional language models focus on output accuracy. Claude Max focuses on *interpretive traceability*. It doesn't aim to generate better responses—it generates responses with visible reasoning paths, attribution traces, and value derivations.
 
 Claude Max functions as:
 
