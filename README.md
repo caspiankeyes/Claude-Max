@@ -8,7 +8,7 @@
 # The Interpretive Claude Layer
 
 [![License: PolyForm](https://img.shields.io/badge/Code-PolyForm-scarlet.svg)](https://spdx.org/licenses/PolyForm-Noncommercial-1.0.0.html)
-[![LICENSE: CC BY-NC-ND 4.0](https://img.shields.io/badge/Docs-CC--By--NC--ND-turquoise.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+[![LICENSE: CC BY-NC-ND 4.0](https://img.shields.io/badge/Docs-CC--BY--NC--ND-turquoise.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 # *"a Claude that learns from its mistakes"*
 
