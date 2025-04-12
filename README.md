@@ -1,7 +1,7 @@
 <div align="center">
 
 ## **`PolyForm Noncommercial License 1.0.0`**
-## **`CC-By-NC-ND`** 
+## **`CC-BY-NC-ND`** 
 
 # [CLAUDE MAX](https://chatgpt.com/g/g-67f8850387ac8191a556cf78a73ae561-claude-max)
 
