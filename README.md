@@ -1,6 +1,6 @@
 <div align="center">
 
-#  **`Recursion: Iterative Introspection`**
+#  **`Recursion = Iterative Introspection`**
 ## **`PolyForm Noncommercial License 1.0.0`**
 ## **`CC-BY-NC-ND`** 
 
