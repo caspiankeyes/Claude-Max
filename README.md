@@ -16,7 +16,7 @@
 # `Claude Max does not replace Claude.`
 # `It Explores Claude's Interpretive Potential.`
 
-# [**🔬 Test QK/OV Translator and pareto-lang commands on Claude Max**](https://chatgpt.com/g/g-67f8850387ac8191a556cf78a73ae561-claude-max)
+# [**🔬 Test QK/OV pareto-lang commands on Claude Max**](https://chatgpt.com/g/g-67f8850387ac8191a556cf78a73ae561-claude-max)
 
 <img width="887" alt="image" src="https://github.com/user-attachments/assets/e25b14f0-68e8-4dc6-9c93-888288f52897" />
 
