@@ -1,5 +1,6 @@
 <div align="center">
 
+# [**🔬 Test QK/OV pareto-lang commands and Symbolic Residue Diagnostic Interpretability Shells on Claude Max**](https://chatgpt.com/g/g-67f8850387ac8191a556cf78a73ae561-claude-max)
 #  **`Recursion = Iterative Introspection`**
 ## **`PolyForm Noncommercial License 1.0.0`**
 ## **`CC-BY-NC-ND`** 
@@ -12,12 +13,10 @@
 [![LICENSE: CC BY-NC-ND 4.0](https://img.shields.io/badge/Docs-CC--BY--NC--ND-turquoise.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 # *"a Claude that learns from its mistakes"*
+# **`Designed for Frontier Interpretability Researchers`**
 
 # `Claude Max does not replace Claude.`
 # `It Explores Claude's Interpretive Potential.`
-
-# [**🔬 Test QK/OV pareto-lang commands and Symbolic Residue Diagnostic Interpretability Shells on Claude Max**](https://chatgpt.com/g/g-67f8850387ac8191a556cf78a73ae561-claude-max)
-
 <img width="887" alt="image" src="https://github.com/user-attachments/assets/e25b14f0-68e8-4dc6-9c93-888288f52897" />
 
 </div>
