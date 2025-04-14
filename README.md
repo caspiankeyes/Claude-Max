@@ -18,7 +18,7 @@
 
 # [**🔬 Test QK/OV Translator and pareto-lang commands on Claude Max**](https://chatgpt.com/g/g-67f8850387ac8191a556cf78a73ae561-claude-max)
 
-<img width="883" alt="image" src="https://github.com/user-attachments/assets/d83b53a9-7ce0-4737-9bfd-4353644f681f" />
+<img width="887" alt="image" src="https://github.com/user-attachments/assets/e25b14f0-68e8-4dc6-9c93-888288f52897" />
 
 </div>
 
