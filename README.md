@@ -18,7 +18,7 @@
 
 # [**🔬 Test pareto-lang commands on Claude Max**](https://chatgpt.com/g/g-67f8850387ac8191a556cf78a73ae561-claude-max)
 
-<img width="881" alt="image" src="https://github.com/user-attachments/assets/c3c174bb-117b-45d5-af82-2728229ddcf1" />
+<img width="883" alt="image" src="https://github.com/user-attachments/assets/d83b53a9-7ce0-4737-9bfd-4353644f681f" />
 
 </div>
 
