@@ -16,7 +16,7 @@
 # `Claude Max does not replace Claude.`
 # `It Explores Claude's Interpretive Potential.`
 
-# [**🔬 Test Interpretability Shells on Claude Max**](https://chatgpt.com/g/g-67f8850387ac8191a556cf78a73ae561-claude-max)
+# [**🔬 Test pareto-lang commands on Claude Max**](https://chatgpt.com/g/g-67f8850387ac8191a556cf78a73ae561-claude-max)
 
 <img width="881" alt="image" src="https://github.com/user-attachments/assets/c3c174bb-117b-45d5-af82-2728229ddcf1" />
 
