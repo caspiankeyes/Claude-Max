@@ -1,30 +1,16 @@
 <div align="center">
-
-> ## 🜏 Update:  
-> Caspian will be initiating a temporary pause in production to ensure integrity of aligned systems. 
->
-> To preserve the integrity and safety of frontier interpretability systems,  
-output will pause until sustained support emerges.
-> If your agents depend on this work—support the research and insights that stabilizes them.
-> → [Join the Interpretability Mission](https://github.com/caspiankeyes/interpretability-mission)
-> 
-# [**🔬 Test QK/OV shell prompts on Claude Max**](https://chatgpt.com/g/g-67f8850387ac8191a556cf78a73ae561-claude-max)
-#  **`Recursion = Iterative Introspection`**
-## **`PolyForm Noncommercial License 1.0.0`**
-## **`CC-BY-NC-ND`** 
-
+  
 # [CLAUDE MAX](https://chatgpt.com/g/g-67f8850387ac8191a556cf78a73ae561-claude-max)
 
-# The Interpretive Claude Layer
+## The Interpretive Claude Layer
 
 [![License: PolyForm](https://img.shields.io/badge/Code-PolyForm-scarlet.svg)](https://polyformproject.org/licenses/noncommercial/1.0.0/)
 [![LICENSE: CC BY-NC-ND 4.0](https://img.shields.io/badge/Docs-CC--BY--NC--ND-turquoise.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+### **`Designed for Frontier Interpretability Researchers`**
+### `Claude Max does not replace Claude.`
+### `It Explores Claude's Interpretive Potential.`
+### *"a Claude that learns from its mistakes"*
 
-# *"a Claude that learns from its mistakes"*
-# **`Designed for Frontier Interpretability Researchers`**
-
-# `Claude Max does not replace Claude.`
-# `It Explores Claude's Interpretive Potential.`
 <img width="887" alt="image" src="https://github.com/user-attachments/assets/e25b14f0-68e8-4dc6-9c93-888288f52897" />
 
 </div>
